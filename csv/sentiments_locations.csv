@@ -1,17 +1,29 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Lewotobi Laki-Laki,Lewotobi Laki-Laki,LOC,0.0,0.0,de,7
+Flores,Flores,LOC,-0.11666666666666665,0.0,de,6
+Flughafen,Flughafen,LOC,-0.175,0.0,de,4
 Philippinen,Philippinen,LOC,0.5666666666666667,0.0,de,3
-Kilauea-Caldera,Kilauea-Caldera,LOC,0.35,0.0,de,2
-Mount Kanlaon,Mount Kanlaon,LOC,-0.175,0.25,de,2
-Negros,Negros,LOC,-0.175,0.25,de,2
-Manila,Manila,LOC,0.5,0.0,de,2
 Vulkans Taal,Vulkans Taal,LOC,0.5,0.0,de,2
-Iran,Iran,LOC,-0.25,0.0,de,1
-Taftan,Taftan,LOC,0.0,0.0,de,1
-Heißer Lavasee,Heißer Lavasee,LOC,0.7,0.0,de,1
-Hawaii,Hawaii,LOC,0.0,0.0,de,1
-Lava,Lava,LOC,0.0,0.0,de,1
-Kilauea,Kilauea,LOC,0.0,0.0,de,1
+Mount Kanlaon,Mount Kanlaon,LOC,-0.175,0.25,de,2
+Bali,Bali,LOC,0.0,0.0,de,2
+türkisen Meer,türkisen Meer,LOC,0.0,0.0,de,2
+Gili-Inseln,Gili-Inseln,LOC,0.0,0.0,de,2
+Reisterrassen,Reisterrassen,LOC,0.0,0.0,de,2
+Aschesäule,Aschesäule,LOC,1.0,0.0,de,2
+Kilauea-Caldera,Kilauea-Caldera,LOC,0.35,0.0,de,2
+Manila,Manila,LOC,0.5,0.0,de,2
+Negros,Negros,LOC,-0.175,0.25,de,2
+Guatemala,Guatemala,LOC,0.85,0.0,de,1
+Taal,Taal,LOC,0.0,0.0,de,1
 Abständen,Abständen,LOC,0.0,0.0,de,1
 Lavafontänen,Lavafontänen,LOC,0.0,0.0,de,1
-Taal,Taal,LOC,0.0,0.0,de,1
+Heißer Lavasee,Heißer Lavasee,LOC,0.7,0.0,de,1
+Kilauea,Kilauea,LOC,0.0,0.0,de,1
+Lava,Lava,LOC,0.0,0.0,de,1
+Hawaii,Hawaii,LOC,0.0,0.0,de,1
+Mount Batur,Mount Batur,LOC,0.7,0.0,de,1
+Taftan,Taftan,LOC,0.0,0.0,de,1
+Iran,Iran,LOC,-0.25,0.0,de,1
+Evakuierungen,Evakuierungen,LOC,0.0,0.0,de,1
+Feuerberg,Feuerberg,LOC,0.7,0.0,de,1
 Grindavík,Grindavík,LOC,0.0,0.0,de,1

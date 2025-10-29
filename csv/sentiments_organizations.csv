@@ -1,4 +1,9 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Indonesischer Vulkan,Indonesischer Vulkan,ORG,0.6666666666666666,0.0,de,3
+indonesische Vulkan,indonesische Vulkan,ORG,0.0,0.0,de,2
 Vulkan,Vulkan,ORG,0.5,0.0,de,2
 GEO,GEO,ORG,1.0,0.0,de,2
+Reisterrassen & Inseltraum Gili,Reisterrassen & Inseltraum Gili,ORG,0.7,0.0,de,1
+Behörd…,Behörd…,ORG,0.0,0.0,de,1
+Buchmesse,Buchmesse,ORG,0.0,0.0,de,1
 Sentinel-2,Sentinel-2,ORG,0.0,0.0,de,1

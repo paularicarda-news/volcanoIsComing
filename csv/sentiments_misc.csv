@@ -1,13 +1,25 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Video,Video,MISC,,,de,2
-stern+statt,stern+statt,MISC,,,de,2
-stern+,stern+,MISC,,,de,2
+indonesischen,indonesischen,MISC,,,de,3
+Zeit,Zeit,MISC,,,de,2
+“,“,MISC,,,de,2
 Capital</li><li>4,Capital</li><li>4,MISC,,,de,2
-iranischen,iranischen,MISC,,,de,1
-europäische,europäische,MISC,,,de,1
+stern+,stern+,MISC,,,de,2
+stern+statt,stern+statt,MISC,,,de,2
+Indonesischer,Indonesischer,MISC,,,de,2
+Video,Video,MISC,,,de,2
 "Hawaii
 ","Hawaii
 ",MISC,,,de,1
-philippinischen,philippinischen,MISC,,,de,1
 Asche gen …,Asche gen …,MISC,,,de,1
+philippinischen,philippinischen,MISC,,,de,1
+iranischen,iranischen,MISC,,,de,1
+europäische,europäische,MISC,,,de,1
+au…,au…,MISC,,,de,1
+F.A.Z.-Stand,F.A.Z.-Stand,MISC,,,de,1
+Lewotobi Laki-Laki,Lewotobi Laki-Laki,MISC,-0.09999999999999999,0.0,de,1
+"Link
+","Link
+",MISC,,,de,1
+Aschesäule“,Aschesäule“,MISC,,,de,1
+Koff…,Koff…,MISC,,,de,1
 Meine Frau,Meine Frau,MISC,,,de,1
