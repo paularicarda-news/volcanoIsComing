@@ -7,3 +7,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vulkanausbruch',de,Hazard,#4277f5,#537ee4,1,0.1029875768842561
 'Vulkan Warnung',de,Mitigation,#a26745,#a37e44,1,0.09839708855631543
 'Vulkan ausgebrochen',de,Hazard,#3267e5,#537ee4,2,0.0392914227204545
+'Vulkan Evakuierung',de,Mitigation,#a74735,#a34e44,2,0.540879199118
