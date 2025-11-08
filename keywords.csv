@@ -6,5 +6,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vulkan Flughafen',de,Impacts,#a267e5,#a37ee4,1,0.0990929962760126
 'Vulkan Warnung',de,Mitigation,#a26745,#a37e44,1,0.0983970885563154
 'Vulkan Warnstufe',de,Mitigation,#a24745,#a34e44,1,0.0920548373192503
-'Vulkanausbruch',de,Hazard,#4277f5,#537ee4,1,0.0766512485488749
+'Vulkanausbruch',de,Hazard,#4277f5,#537ee4,1,0.06650369626654366
 'Vulkan ausgebrochen',de,Hazard,#3267e5,#537ee4,2,0.0392914227204545
