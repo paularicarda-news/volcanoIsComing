@@ -7,4 +7,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vulkan Warnung',de,Mitigation,#a26745,#a37e44,1,0.084087570272868
 'Vulkan Warnstufe',de,Mitigation,#a24745,#a34e44,1,0.0791467017213627
 'Vulkanausbruch',de,Hazard,#4277f5,#537ee4,1,0.0665036962665436
-'Vulkan ausgebrochen',de,Hazard,#3267e5,#537ee4,2,0.0392914227204545
+'Vulkan ausgebrochen',de,Hazard,#3267e5,#537ee4,1,0.03339781431238632
