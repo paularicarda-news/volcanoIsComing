@@ -1,5 +1,6 @@
-,phrase,label,sentiment,subjectivity,language,count
-Lewotobi Laki-Laki,Lewotobi Laki-Laki,PER,0.0,0.0,de,2
-Patrick Bahners,Patrick Bahners,PER,0.0,0.0,de,1
-Annette Pehnt,Annette Pehnt,PER,0.0,0.0,de,1
-Grindavíks Bewohnern,Grindavíks Bewohnern,PER,0.0,0.0,de,1
+,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
+Lewotobi Laki-Laki,Lewotobi Laki-Laki,PER,0.0,0.0,de,2,,,,,,
+Patrick Bahners,Patrick Bahners,PER,0.0,0.0,de,1,,,,,,
+Annette Pehnt,Annette Pehnt,PER,0.0,0.0,de,1,,,,,,
+Grindavíks Bewohnern,Grindavíks Bewohnern,PER,0.0,0.0,de,1,,,,,,
+Ramon Antonio Rodriguez,Ramon Antonio Rodriguez,PER,0.0,0.0,de,1,,,,,,

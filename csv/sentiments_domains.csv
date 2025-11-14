@@ -1,14 +1,14 @@
 domain,sentiment_mean,sentiment_std,subjectivity_mean,subjectivity_std,counting
 www.stern.de,0.12611111111111115,0.2025965704802783,0.027777777777777776,0.048112522432468816,3.0
+www.diepresse.com,0.07083333333333333,0.10017346066809422,0.0,0.0,2.0
 www.focus.de,0.2675,0.5762920266670362,0.0,0.0,2.0
 www.spektrum.de,0.08541666666666665,0.20918575610102028,0.0,0.0,2.0
+www.tagesschau.de,0.0,0.0,0.0,0.0,2.0
 www.welt.de,-0.06999999999999999,0.09899494936611665,0.0,0.0,2.0
 orf.at,0.0,1.0,0.0,1.0,1.0
 www.bild.de,0.0,1.0,0.0,1.0,1.0
-www.diepresse.com,0.0,1.0,0.0,1.0,1.0
 www.faz.net,0.0,1.0,0.0,1.0,1.0
 www.morgenpost.de,0.0,1.0,0.0,1.0,1.0
-www.tagesschau.de,0.0,1.0,0.0,1.0,1.0
 www.tagesspiegel.de,0.0,1.0,0.0,1.0,1.0
 www.urlaubspiraten.de,0.0,1.0,0.0,1.0,1.0
 www.zeit.de,0.0,1.0,0.0,1.0,1.0

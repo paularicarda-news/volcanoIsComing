@@ -1,26 +1,29 @@
-,phrase,label,sentiment,subjectivity,language,count
-indonesischen,indonesischen,MISC,,,de,4
-Zeit,Zeit,MISC,,,de,2
-“,“,MISC,,,de,2
-Capital</li><li>4,Capital</li><li>4,MISC,,,de,2
-stern+,stern+,MISC,,,de,2
-stern+statt,stern+statt,MISC,,,de,2
-Indonesischer,Indonesischer,MISC,,,de,2
-Video,Video,MISC,,,de,2
-europäische,europäische,MISC,,,de,1
-Asche gen …,Asche gen …,MISC,,,de,1
-philippinischen,philippinischen,MISC,,,de,1
+,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
+indonesischen,indonesischen,MISC,,,de,4,,,,,,
+Zeit,Zeit,MISC,,,de,2,,,,,,
+Video,Video,MISC,,,de,2,,,,,,
+“,“,MISC,,,de,2,,,,,,
+Indonesischer,Indonesischer,MISC,,,de,2,,,,,,
+Capital</li><li>4,Capital</li><li>4,MISC,,,de,2,,,,,,
+stern+,stern+,MISC,,,de,2,,,,,,
+stern+statt,stern+statt,MISC,,,de,2,,,,,,
+kolumbianische,kolumbianische,MISC,,,de,1,,,,,,
+Armero,Armero,MISC,0.0,0.0,de,1,,,,,,
+Meine Frau,Meine Frau,MISC,,,de,1,,,,,,
+Asche gen …,Asche gen …,MISC,,,de,1,,,,,,
+philippinischen,philippinischen,MISC,,,de,1,,,,,,
+europäische,europäische,MISC,,,de,1,,,,,,
 "Hawaii
 ","Hawaii
-",MISC,,,de,1
-"Zombie""-Vulkan","Zombie""-Vulkan",MISC,,,de,1
-iranischen,iranischen,MISC,,,de,1
-au…,au…,MISC,,,de,1
-F.A.Z.-Stand,F.A.Z.-Stand,MISC,,,de,1
-Lewotobi Laki-Laki,Lewotobi Laki-Laki,MISC,-0.07777777777777778,0.0,de,1
+",MISC,,,de,1,,,,,,
+au…,au…,MISC,,,de,1,,,,,,
+iranischen,iranischen,MISC,,,de,1,,,,,,
+"Zombie""-Vulkan","Zombie""-Vulkan",MISC,,,de,1,,,,,,
+F.A.Z.-Stand,F.A.Z.-Stand,MISC,,,de,1,,,,,,
+Lewotobi Laki-Laki,Lewotobi Laki-Laki,MISC,-0.07777777777777778,0.0,de,1,,,,,,
 "Link
 ","Link
-",MISC,,,de,1
-Aschesäule“,Aschesäule“,MISC,,,de,1
-Koff…,Koff…,MISC,,,de,1
-Meine Frau,Meine Frau,MISC,,,de,1
+",MISC,,,de,1,,,,,,
+Aschesäule“,Aschesäule“,MISC,,,de,1,,,,,,
+Koff…,Koff…,MISC,,,de,1,,,,,,
+kolumbianischen,kolumbianischen,MISC,,,de,1,,,,,,
